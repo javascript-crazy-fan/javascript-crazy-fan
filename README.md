@@ -66,11 +66,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />
 </div> -->
 
-<h1 width="100%" align="center"></h1>
+<!-- <h1 width="100%" align="center"></h1>
 
 <div align="center" width="100%">
   <img align="center" src="./github-metrics.svg" alt="Alchemist" width="100%">
-</div>
+</div> -->
 
 <!-- ## Contact me
 
@@ -80,6 +80,6 @@
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/940446593172254792)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/primozbernard/) -->
 
-<div align="right">
+<!-- <div align="right">
   <img src="https://count.getloli.com/get/@:alchemist0404?theme=rule34" />
-</div>
+</div> -->
