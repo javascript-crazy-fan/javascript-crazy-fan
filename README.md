@@ -66,11 +66,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=alchemist0404&theme=gruvbox" />
 </div> -->
 
-<!-- <h1 width="100%" align="center"></h1>
+<h1 width="100%" align="center"></h1>
 
 <div align="center" width="100%">
-  <img align="center" src="./github-metrics.svg" alt="Alchemist" width="100%">
-</div> -->
+  <img align="center" src="./github-metrics.svg" alt="Javascrpt-Crazy-Fan" width="100%">
+</div>
 
 <!-- ## Contact me
 
